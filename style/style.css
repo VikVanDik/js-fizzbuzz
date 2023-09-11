@@ -5,7 +5,21 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 30px;
+  font-size: 20px;
   margin: 10px;
-  background-color: blue
+  background-color: #083B4C;
+  color : white;
+  font-weight: bold;
+}
+
+.buzz-fizz {
+  background-color:  #F0466F;
+}
+
+.buzz {
+  background-color: #FFD166;
+}
+
+.fizz {
+  background-color: #0CD6A1;
 }
