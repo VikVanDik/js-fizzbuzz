@@ -1,0 +1,11 @@
+
+.box {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  margin: 10px;
+  background-color: blue
+}
