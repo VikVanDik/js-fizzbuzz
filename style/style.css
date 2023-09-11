@@ -26,12 +26,16 @@
 
 .buzz-fizz {
   background-color:  #F0466F;
+  border-radius: 50px;
 }
 
 .buzz {
   background-color: #FFD166;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
 }
 
 .fizz {
   background-color: #0CD6A1;
+  border-radius: 20px;
 }
